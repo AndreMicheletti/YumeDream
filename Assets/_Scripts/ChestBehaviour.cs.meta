@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 15a39d208127b904d949e8bee52d6299
+timeCreated: 1492981088
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - openChestSprite: {fileID: 21300002, guid: 6dc6ebfb39f1be24dbf533ecc6ec3717, type: 3}
+  - closedChestSprite: {instanceID: 0}
+  - player: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
